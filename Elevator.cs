@@ -24,7 +24,7 @@ namespace Area51Elevator
         public Elevator()
         {
             Agents = new List<Agent>();
-            Semaphore = new SemaphoreSlim(1, 3);
+            Semaphore = new SemaphoreSlim(1, 1); // edit: the elevator is tiny
         }
 
         public void EnterElevator(Agent agent)

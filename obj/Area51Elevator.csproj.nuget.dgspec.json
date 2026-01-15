@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Georgi\\Desktop\\Visual Studio Stuff\\Area51Elevator\\Area51Elevator.csproj": {}
+    "C:\\Users\\Georgi\\Desktop\\ElevatorSystem\\Area51Elevator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Georgi\\Desktop\\Visual Studio Stuff\\Area51Elevator\\Area51Elevator.csproj": {
+    "C:\\Users\\Georgi\\Desktop\\ElevatorSystem\\Area51Elevator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Georgi\\Desktop\\Visual Studio Stuff\\Area51Elevator\\Area51Elevator.csproj",
+        "projectUniqueName": "C:\\Users\\Georgi\\Desktop\\ElevatorSystem\\Area51Elevator.csproj",
         "projectName": "Area51Elevator",
-        "projectPath": "C:\\Users\\Georgi\\Desktop\\Visual Studio Stuff\\Area51Elevator\\Area51Elevator.csproj",
+        "projectPath": "C:\\Users\\Georgi\\Desktop\\ElevatorSystem\\Area51Elevator.csproj",
         "packagesPath": "C:\\Users\\Georgi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Georgi\\Desktop\\Visual Studio Stuff\\Area51Elevator\\obj\\",
+        "outputPath": "C:\\Users\\Georgi\\Desktop\\ElevatorSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
