@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\fmi\\Desktop\\ElevatorSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC007D8D-85E8-999E-C7E6-0145EB9911A2}|Area51Elevator.csproj|d:\\users\\fmi\\desktop\\elevatorsystem\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC007D8D-85E8-999E-C7E6-0145EB9911A2}|Area51Elevator.csproj|solutionrelative:agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC007D8D-85E8-999E-C7E6-0145EB9911A2}|Area51Elevator.csproj|d:\\users\\fmi\\desktop\\elevatorsystem\\area51elevator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FC007D8D-85E8-999E-C7E6-0145EB9911A2}|Area51Elevator.csproj|solutionrelative:area51elevator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC007D8D-85E8-999E-C7E6-0145EB9911A2}|Area51Elevator.csproj|d:\\users\\fmi\\desktop\\elevatorsystem\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC007D8D-85E8-999E-C7E6-0145EB9911A2}|Area51Elevator.csproj|solutionrelative:elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC007D8D-85E8-999E-C7E6-0145EB9911A2}|Area51Elevator.csproj|d:\\users\\fmi\\desktop\\elevatorsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC007D8D-85E8-999E-C7E6-0145EB9911A2}|Area51Elevator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\ElevatorSystem\\Agent.cs",
+              "RelativeDocumentMoniker": "Agent.cs",
+              "ToolTip": "d:\\users\\fmi\\Desktop\\ElevatorSystem\\Agent.cs",
+              "RelativeToolTip": "Agent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:57:08.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Area51Elevator",
+              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\ElevatorSystem\\Area51Elevator.csproj",
+              "RelativeDocumentMoniker": "Area51Elevator.csproj",
+              "ToolTip": "d:\\users\\fmi\\Desktop\\ElevatorSystem\\Area51Elevator.csproj",
+              "RelativeToolTip": "Area51Elevator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T08:53:45.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\ElevatorSystem\\Elevator.cs",
+              "RelativeDocumentMoniker": "Elevator.cs",
+              "ToolTip": "d:\\users\\fmi\\Desktop\\ElevatorSystem\\Elevator.cs",
+              "RelativeToolTip": "Elevator.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:48:57.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\ElevatorSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "d:\\users\\fmi\\Desktop\\ElevatorSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:48:52.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

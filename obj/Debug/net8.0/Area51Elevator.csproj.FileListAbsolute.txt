@@ -1,0 +1,15 @@
+d:\users\fmi\Desktop\ElevatorSystem\bin\Debug\net8.0\Area51Elevator.exe
+d:\users\fmi\Desktop\ElevatorSystem\bin\Debug\net8.0\Area51Elevator.deps.json
+d:\users\fmi\Desktop\ElevatorSystem\bin\Debug\net8.0\Area51Elevator.runtimeconfig.json
+d:\users\fmi\Desktop\ElevatorSystem\bin\Debug\net8.0\Area51Elevator.dll
+d:\users\fmi\Desktop\ElevatorSystem\bin\Debug\net8.0\Area51Elevator.pdb
+d:\users\fmi\Desktop\ElevatorSystem\obj\Debug\net8.0\Area51Elevator.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\ElevatorSystem\obj\Debug\net8.0\Area51Elevator.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\ElevatorSystem\obj\Debug\net8.0\Area51Elevator.AssemblyInfo.cs
+d:\users\fmi\Desktop\ElevatorSystem\obj\Debug\net8.0\Area51Elevator.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\ElevatorSystem\obj\Debug\net8.0\Area51Elevator.sourcelink.json
+d:\users\fmi\Desktop\ElevatorSystem\obj\Debug\net8.0\Area51Elevator.dll
+d:\users\fmi\Desktop\ElevatorSystem\obj\Debug\net8.0\refint\Area51Elevator.dll
+d:\users\fmi\Desktop\ElevatorSystem\obj\Debug\net8.0\Area51Elevator.pdb
+d:\users\fmi\Desktop\ElevatorSystem\obj\Debug\net8.0\Area51Elevator.genruntimeconfig.cache
+d:\users\fmi\Desktop\ElevatorSystem\obj\Debug\net8.0\ref\Area51Elevator.dll

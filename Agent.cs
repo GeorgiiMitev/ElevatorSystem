@@ -22,12 +22,7 @@ namespace Area51Elevator
             SecurityLevel = securityLevel;
         }
 
-        public enum SecurityLevels
-        {
-            Confidental,
-            Secret,
-            TopSecret
-        }
+        
         public static int RandomFloorSelection()
         {
             int floor = Random.Shared.Next(1, 5);
